@@ -2,7 +2,7 @@
 
 Master's Student in Computer Science at **University of Washington**.
 
-My research interests lie primarily in **Physics Informed Neural Network** and **Deep Learning**. I am passionate about exploring Computer Vision for Health.
+My research interests lie primarily in **Physical AI** and **Deep Learning**. I am passionate about exploring Computer Vision for Health.
 
 ### 🎓 Education
 
